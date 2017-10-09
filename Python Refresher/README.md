@@ -8,4 +8,11 @@
 3. List Comprehension
 4. Methods
 
-## OOP
+## Objects
+1. The `__init__`
+2. `@classmethod`, `@staticmethod`
+
+## Inheritance
+1. `*args`,`**kwargs`
+2. Methods as paramaters - `lamba`
+3. Decorators - with parameters
